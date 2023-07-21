@@ -1,5 +1,5 @@
 const name = 'Arinze'
-let result = name
+let result = name                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 console.log(result) // Output: "Arinze"
 
 const fullName = 'Arinze ' + 'Atusiuba'
